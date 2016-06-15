@@ -18,6 +18,8 @@ import java.io.IOException;
  *
  * Will add the function soon.
  *
+ * This is just for testing a branch
+ *
  */
 public class CameraView extends SurfaceView implements SurfaceHolder.Callback{
 
