@@ -14,7 +14,9 @@ import java.io.IOException;
  * This is a program for accessing the camera on android phone.
  * Only the Camera is accessed.
  *
- * Clicking photos and videos is not possible
+ * Clicking photos and videos is not possible.
+ *
+ * Will add the function soon.
  *
  */
 public class CameraView extends SurfaceView implements SurfaceHolder.Callback{
