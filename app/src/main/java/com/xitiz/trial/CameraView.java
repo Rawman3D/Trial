@@ -9,7 +9,13 @@ import android.view.SurfaceView;
 import java.io.IOException;
 
 /**
- * Created by xitiz on 6/14/16.
+ * Created by Kshitiz Mandal on 6/14/16.
+ *
+ * This is a program for accessing the camera on android phone.
+ * Only the Camera is accessed.
+ *
+ * Clicking photos and videos is not possible
+ *
  */
 public class CameraView extends SurfaceView implements SurfaceHolder.Callback{
 
